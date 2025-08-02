@@ -1,11 +1,11 @@
-# Computer Science Note
+# Problem Solving Note
 
 
 [![Since](https://img.shields.io/badge/since-2025-brightgreen.svg)]()  [![Author](https://img.shields.io/badge/author-1Dohyeon-orange.svg)]()
 
 ## About
 
-컴퓨터 사이언스 전공 과정에서 학습한 핵심 개념들을 체계적으로 정리한 저장소입니다. 자료구조부터 최신 AI 기술까지, 이론과 실습을 통해 습득한 지식을 누구나 쉽게 이해할 수 있도록 문서화합니다.
+자료구조 및 알고리즘 문제를 백준 / LeetCode 사이트를 통해 학습하고 정리하는 공간입니다.
 
 ---
 ## [data structure](https://github.com/DOforTU/note-cs/blob/main/data%20structure/data%20structure.md) 자료구조
@@ -21,3 +21,4 @@
 ## 머신러닝 (Machine Learning)
 
 ## 딥러닝 (Deep Learning)
+
